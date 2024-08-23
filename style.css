@@ -18,7 +18,7 @@
 }
 
 .cabeçalho-lista {
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 22px;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .nossa-escola {
-    background-image: linear-gradient(#ecef66, #ecef66);
+    background-image: linear-gradient(#ecef66, #ece);
     color: white;
     display: flex;
     justify-content: center;
